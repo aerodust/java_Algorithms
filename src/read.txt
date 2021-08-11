@@ -1,0 +1,4 @@
+when you activate algorithm file
+
+% javac-introcs MyProgram.java
+% java-introcs  MyProgram
